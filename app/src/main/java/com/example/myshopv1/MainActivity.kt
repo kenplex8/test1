@@ -2,7 +2,7 @@ package com.example.myshopv1
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.animation.Animator
+import android.animation.AnimatorSet
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
